@@ -1,5 +1,4 @@
 # Quantitative Trading
 
-Notebooks:
-- Pair Trading Strategy using Stocks
-- ...
+This repository will contain several unrelated works. 
+
